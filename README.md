@@ -6,7 +6,7 @@
 
 ### 🛠️ J'ai créé un portfolio en cybersécurité. Vous pouvez le consulter **[ici](lien_vers_votre_portfolio)**.
 
-### ✅ J'ai obtenu la certification **Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)**.
+### ✅ Certification **Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)**.
 
 ### 💂 J'ai obtenu la certification **TOEIC Score 785**.
 
