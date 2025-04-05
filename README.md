@@ -11,9 +11,9 @@
 ### 💂 J'ai obtenu la certification **TOEIC Score 785**.
 
 ### 🎯 Objectifs en cours :
-* Cisco CCNA**
-* CompTIA Security+**
-* Linux Foundation Certified Administrator**
+* Cisco CCNA
+* CompTIA Security+
+* Linux Foundation Certified Administrator
   
 
 # 📫 Retrouvez-moi **[ici](lien_vers_votre_profil_professionnel)**.
