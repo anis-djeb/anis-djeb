@@ -11,9 +11,11 @@
 ### 🛡️ À terme, j’aspire à devenir **analyste en cybersécurité**.
 
 ### 🎯 Objectifs en cours :
-* Cisco CCNA
+* Google Cybersécurité
 * CompTIA Security+
 * Microsoft AZ-900
+* Cisco CCNA
+
   
 
 # 📫 Retrouvez-moi **[ici](https://www.linkedin.com/in/anis-djebaili/)**.
